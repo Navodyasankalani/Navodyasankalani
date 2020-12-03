@@ -1,4 +1,12 @@
-### Hi there 👋
+
+
+### Hi there 👋 I'm Navodya. Thanks for visiting my GitHub
+
+- 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
+- 📚 Working on learning more languages and tools.
+- 📫 How to reach me:  🐦 [twitter][twitter] 
+
+[twitter]: https://twitter.com/NavodyaSankala1
 
 <!--
 **Navodyasankalani/Navodyasankalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
